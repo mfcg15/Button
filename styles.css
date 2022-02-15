@@ -1,0 +1,37 @@
+div
+{
+    text-align: center;
+    margin-bottom: 10px; 
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.Boton1
+{
+    border: 2px solid #41afb0;
+    width: 120px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    color: #41afb0;
+}
+
+.Boton2
+{
+    width: 36px;
+    height: 22px;
+    color: white;
+    background-color: #00d1b2;
+    border-radius: 90%;
+}
+
+.Boton3
+{
+    width: 160px;
+    background-color: #2b78e4;
+    box-shadow: 3px 4px black;
+    border: 3px solid black;
+    color: white;
+    font-size: 18px;
+}
